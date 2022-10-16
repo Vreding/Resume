@@ -157,6 +157,10 @@ body {
   padding-bottom: 20px;
 }
 
+.git_href {
+  padding: 40px 0;
+}
+
 /* sidebar section */
 .sidebar-section {
   background-color: #111f38;
